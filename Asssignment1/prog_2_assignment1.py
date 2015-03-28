@@ -1,7 +1,7 @@
 x='Techie'
 y="Tushu"
 z=('''Tushar
-	gorel
+	gohel
 	is 
 	techie Tushu
 	'''
