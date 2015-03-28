@@ -1,5 +1,5 @@
 x=7
-print("x is = 7")
+print("x is %d"%x)
 x+=2
 print("ans after  operation x+=2 is",x)
 x*=4
