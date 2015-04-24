@@ -1,5 +1,5 @@
 Planet_name = ['Mercury', 'Venus', 'Earth', 'Mars',
-         'Jupiter', 'Saturn', 'Uranus', 'Neptune']
+               'Jupiter', 'Saturn', 'Uranus', 'Neptune']
 
 print(Planet_name)
 
